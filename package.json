@@ -1,0 +1,27 @@
+{
+  "name": "request",
+  "version": "9.9.9",
+  "description": "Request proxy package for @cypress/request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barongello/request.git"
+  },
+  "keywords": [
+    "Request",
+    "proxy",
+    "@cypress/request"
+  ],
+  "author": "Wagner Barongello",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/barongello/request/issues"
+  },
+  "homepage": "https://github.com/barongello/request#readme",
+  "dependencies": {
+    "@cypress/request": "^3.0.1"
+  }
+}
